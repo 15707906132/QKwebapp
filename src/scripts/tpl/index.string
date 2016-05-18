@@ -1,0 +1,24 @@
+<div class="m-index">
+  <div class="m-contant"></div>
+  
+  <footer>
+    <ul>
+    	<li action-type="tap.switch" data-tag="choose">
+    		<i class="yo-ico">&#xe616;</i>
+    		<b>精选</b>
+    	</li>
+    	<li class="active" action-type="tap.switch" data-tag="find">
+    		<i class="yo-ico">&#xe603;</i>
+    		<b>发现</b>
+    	</li>
+    	<li action-type="tap.switch" data-tag="adress">
+    		<i class="yo-ico">&#xe701;</i>
+    		<b>目的地</b>
+    	</li>
+    	<li action-type="tap.switch" data-tag="my">
+    		<i class="yo-ico">&#xe702;</i>
+    		<b>我的</b>
+    	</li>
+    </ul>
+  </footer>
+</div>

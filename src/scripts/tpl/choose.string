@@ -1,0 +1,29 @@
+<div class="choose-page" spa-widget="scroll">
+	<div class="choose-banner">
+		<div class="swiper-container">
+		  <div class="swiper-wrapper">
+		    <div class="swiper-slide"><img src="/QKwebapp/images/find/c1.png"/></div>
+		    <div class="swiper-slide"><img src="/QKwebapp/images/find/c2.png"/></div>
+		    <div class="swiper-slide"><img src="/QKwebapp/images/find/c3.png"/></div>
+		  </div>
+		</div
+	</div>
+	
+	<div class="choose-ul">
+		<ul>
+			<li>
+				<img src="/QKwebapp/images/find/ren.png"/>
+				<p>
+					<span>蒸蛋</span>
+					<span>没有梦想、何必远方。</span>
+				</p>					
+			</li>
+			<li>
+				<img src="/QKwebapp/images/find/h1.png"/>
+			</li>
+			<li></li>
+		</ul>
+	</div>
+	
+	
+</div>

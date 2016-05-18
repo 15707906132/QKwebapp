@@ -1,0 +1,100 @@
+<header>
+   	<ul>
+   		<li></li>
+   		<li>
+   			<p>发现</p>
+   		</li>
+   		<li class="yo-ico">&#xe627;</li>
+   	</ul>
+  </header>
+  
+  <section spa-widget="scroll" data-scroll-id="homeHotScroll">
+  	<div>
+  		<div class="head">
+  			<img src="/QKwebapp/images/iconfonts/arrow.png"/>
+  			<span>下拉刷新...</span>
+  		</div>
+  		
+	  	<div class="banner">
+	  		<div class="swiper-container" id="banner">
+			  <div class="swiper-wrapper">
+			    <div class="swiper-slide"><img src="./images/find/banner.png"/></div>
+			    <div class="swiper-slide"><img src="./images/find/banner2.png"/></div>
+			    <div class="swiper-slide"><img src="./images/find/banner3.png"/></div>
+			    <div class="swiper-slide"><img src="./images/find/banner4.png"/></div>
+			  </div>
+			</div>
+	  	</div>
+	   	<div class="interest">
+	   		<div class="my-interest">
+	   			<p>发现·我的兴趣</p>
+	   		</div>
+	   		
+			<ul>
+				<li>
+					<i><img src="images/find/fly.png"/></i>
+					<b>飞行</b>
+				</li>
+				<li>
+					<i><img src="images/find/outdoors.png"/></i>
+					<b>户外</b>
+				</li>
+				<li>
+					<i><img src="images/find/natural.png"/></i>
+					<b>自然</b>
+				</li>
+				<li>
+					<i><img src="images/find/sea.png"/></i>
+					<b>海边</b>
+				</li>
+				<li>
+					<i><img src="images/find/art.png"/></i>
+					<b>艺术</b>
+				</li>
+			</ul>
+	   		<ul>
+				<li>
+					<i><img src="images/find/film.png"/></i>
+					<b>飞行</b>
+				</li>
+				<li>
+					<i><img src="images/find/water.png"/></i>
+					<b>户外</b>
+				</li>
+				<li>
+					<i><img src="images/find/food.png"/></i>
+					<b>自然</b>
+				</li>
+				<li>
+					<i><img src="images/find/comic.png"/></i>
+					<b>海边</b>
+				</li>
+				<li>
+					<i><img src="images/find/man.png"/></i>
+					<b>艺术</b>
+				</li>
+			</ul>
+	   	</div>
+	   	
+	   	<div class="station">
+	   		<div class="next-station">
+	   			<p>发现·下一站</p>
+	   		</div>
+	   		<ul>
+	   			<li><img src="images/station/s1.png"/></li>
+	   			<li></li>
+	   			<li><img src="images/station/s2.png"/></li>
+	   		</ul>
+	   		<ul>
+	   			<li><img src="images/station/s3.png"/></li>
+	   			<li></li>
+	   			<li><img src="images/station/s4.png"/></li>
+	   		</ul>
+	   	</div>
+	   	
+	   	<div class="foot">
+  			<img src="/QKwebapp/images/iconfonts/ajax-loader.gif"/>
+  			<span>上拉加载更多...</span>
+  		</div>
+	</div>
+  </section>
